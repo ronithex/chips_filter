@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="QuickFilter">
+        <attr name="text" format="string"/>
+        <attr name="appWidgetPadding" format="dimension" />
+        <attr name="appWidgetInnerRadius" format="dimension" />
+        <attr name="appWidgetRadius" format="dimension" />
+
+
+        
+    </declare-styleable>
+</resources>
